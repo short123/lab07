@@ -54,7 +54,7 @@ if (!$result) die($conn->error);
 <center><button class="button" style="vertical-align:middle" name="info" onclick="linkto();"><span>Register</span></button></center>
 <script>
     function linkto() {
-        window.location='http://angsila.cs.buu.ac.th/~58160428/887371/lab07/register_form.php';
+        window.location='http://angsila.cs.buu.ac.th/~58160546/887371/lab07/register_form.php';
     }
 </script>
 <?php  
