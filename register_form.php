@@ -19,7 +19,7 @@
 </style> 
     
 <table border="0" align="left" width="1200" height="50">
-        <tr bgcolor="#BFEFFF">
+        <tr bgcolor="#CC3300">
             <td colspan="3" align="center">
                 <a href="http://angsila.cs.buu.ac.th/~58160428/887371/lab07/register_form.php">
                     <font color="#000000"><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">RegisterFrom</font>
