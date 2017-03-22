@@ -41,7 +41,7 @@ $conn->close();
 <button class="button" style="vertical-align:middle" name="info" onclick="linkto();"><span>Info</span></button>
 <script>
     function linkto() {
-        window.location='http://angsila.cs.buu.ac.th/~58160546/887371/lab07/show_register.php';
+        window.location='http://angsila.cs.buu.ac.th/~58160428/887371/lab07/show_register.php';
     }
 </script>
 </body>
